@@ -15,7 +15,7 @@
 🔹 [**National Data Repositories**](#) - Large-scale multi-source data warehouses.  
 
 ### 🔗 **Let's Connect**
-📌 [GitHub Portfolio](https://MayanjaXL.github.io) | 📌 [LinkedIn](#https://www.linkedin.com/in/fittiweissglas) | 
+📌 [GitHub Portfolio](https://MayanjaXL.github.io) | 📌 [LinkedIn](https://www.linkedin.com/in/fittiweissglas) | 
 
 
 
