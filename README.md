@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm Fitti Weissglas
+
+👨‍💻 **Principal Software & Data Engineer** | 🏗 **Technical Architect** | 📊 **Data Engineer**  
+🚀 Passionate about **engineering scalable systems, data-driven solutions, and AI-assisted development**.
+
+### 📌 **What I Do**
+- **Software & Data Engineering** → Building robust backend & data solutions in **Python/Django, React and more**.
+- **Technical Leadership** → Leading small teams to deliver **high-impact projects**.
+- **Public Health Informatics** → Designing **data platforms & dashboards** to improve health outcomes.
+- **SWIFT** → Just for fun, experiment with Swift and SwiftUI
+
+### 🚀 **Featured Projects**
+🔹 [**DUFT**](#) - A Python-based framework for rapid CRUD UI development.  
+🔹 [**TSIS2**](#) - A Django-based EMR improving HIV care.  
+🔹 [**National Data Repositories**](#) - Large-scale multi-source data warehouses.  
+
+### 🔗 **Let's Connect**
+📌 [GitHub Portfolio](https://MayanjaXL.github.io) | 📌 [LinkedIn](#https://www.linkedin.com/in/fittiweissglas) | 
+
+
 
 <!--
 **MayanjaXL/MayanjaXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
