@@ -10,9 +10,7 @@
 - **SWIFT** → Just for fun, experiment with Swift and SwiftUI
 
 ### 🚀 **Featured Projects**
-🔹 [**DUFT**](https://mayanjaxl.github.io/duft.html) - A Python-based framework for rapid CRUD UI development.  
-🔹 **TSIS2** - A Django-based EMR improving HIV care.  
-🔹 [**National Data Repositories**](https://mayanjaxl.github.io/ndr.html) - Large-scale multi-source data warehouses.  
+🔹 **[See my Full Portfolio](fittiweissglas.com)**
 
 ### 🔗 **Let's Connect**
 📌 [GitHub Portfolio](https://MayanjaXL.github.io) | 📌 [LinkedIn](https://www.linkedin.com/in/fittiweissglas) | 
